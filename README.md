@@ -1,4 +1,4 @@
-Hello! 🙂
+Hello! My name is Evgeny Zyryansky, and this is my project!🙂
 To make the bioinformatical project you need download the GSE130708_RAW.tar file from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130708
 
 Then you need to run RStudio and put GSE130708_RAW.tar in your Working Directory
