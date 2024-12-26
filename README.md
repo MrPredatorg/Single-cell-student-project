@@ -11,4 +11,4 @@ Merging -> Making_diff_expression
 
 You should also know that folders with .R files contain graphs and intermediate files that you can get at a specific stage.
 
-I hope you enjoy the project. Good luck!! 😁 😊 😊
+I hope you will enjoy the project. Good luck!! 😁 😊 😊
