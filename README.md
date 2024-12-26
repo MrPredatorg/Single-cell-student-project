@@ -6,8 +6,7 @@ And then you can open and activate the "full_code.R" file, or perfom the project
 
 To execute the code in parts, activate the .R files in the following order: 
 
-Packages -> File_modification -> Transforming_iso_matrix -> Preprocessing ->
-Merging -> Making_diff_expression
+Packages -> File_modification -> Transforming_iso_matrix -> Preprocessing -> Making_diff_expr
 
 You should also know that folders with .R files contain graphs and intermediate files that you can get at a specific stage.
 
